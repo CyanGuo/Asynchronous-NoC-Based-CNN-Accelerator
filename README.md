@@ -5,7 +5,7 @@ Copyright @ 02/16/2022 Yuqing Guo
 RESULT FILE: "pe_tb.dump"
 
 -top module 
-	"pe.sv"
+	"pe_convolution_1d.sv"
 
 -submodules
 	"accumulator.sv"
